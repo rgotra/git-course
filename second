@@ -1,1 +1,27 @@
-second
+name = smachniy	
+price = 100/4week
+internet = 20 000 Mb
+quantity other mob = 300 min
+price city = 1.5/min
+---------------------------------------------------------
+
+name =  currently
+price = 75/4 week
+internet = 6000 Mb
+quantity other mob = 100 min
+price city = 1.5/min
+ 
+---------------------------------------------------------
+
+name = 
+price = 
+internet = 
+quantity min = 
+---------------------------------------------------------
+
+name = 
+price = 
+internet = 
+quantity min = 
+---------------------------------------------------------
+
